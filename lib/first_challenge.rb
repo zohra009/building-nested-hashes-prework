@@ -1,3 +1,3 @@
 def first_challenge
-   epic_tragedy = {:Montague => {}, :Capulet => {}}
+  epic_tragedy = {:montague => {}, :capulet => {}}
 end
